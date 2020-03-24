@@ -163,13 +163,13 @@ tags: [github, blog, jekyll]
 
 ## Reference
 
-- (jekyll theme -minimal mistakes- repo) https://github.com/mmistakes/minimal-mistakes
-- (jekyll theme -minimal mistakes- guide) https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-- (깃허브 블로그 시작 튜토리얼) https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
-- (깃허브 블로그 시작 튜토리얼) https://zoomkoding.github.io/gitblog/2019/08/15/git-blog-1.html
-- (mac & gem 권한 부여) https://jojoldu.tistory.com/288
-- (vim 입력) https://opentutorials.org/course/730/4562
-- (vim 저장) https://opentutorials.org/course/730/4561
-- (github posting) https://devyurim.github.io/development%20environment/github%20blog/2018/01/01/blog-2.html
-- (github warning) https://github.com/mmistakes/minimal-mistakes/issues/1394
-- (git commit, push cancel) https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
+- [jekyll theme -minimal mistakes- repo](https://github.com/mmistakes/minimal-mistakes)
+- [jekyll theme -minimal mistakes- guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- [깃허브 블로그 시작 튜토리얼](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html)
+- [깃허브 블로그 시작 튜토리얼](https://zoomkoding.github.io/gitblog/2019/08/15/git-blog-1.html)
+- [mac & gem 권한 부여](https://jojoldu.tistory.com/288)
+- [vim 입력](https://opentutorials.org/course/730/4562)
+- [vim 저장](https://opentutorials.org/course/730/4561)
+- [github posting](https://devyurim.github.io/development%20environment/github%20blog/2018/01/01/blog-2.html)
+- [github theme warning](https://github.com/mmistakes/minimal-mistakes/issues/1394)
+- [git commit, push 취소](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
