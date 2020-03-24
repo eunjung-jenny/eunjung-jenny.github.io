@@ -93,7 +93,8 @@ tags: [CSS, Front-end]
 ## # Wrap-up
 
 - JS 를 사용할 때에도 차이가 있다.
-  - `document.rootElement` | `document.body`
+  - HTML : `document.rootElement` 
+  - Body : `document.body`
 - 더 자세한 내용은 언제나 문서를 참고.
 
 ## # 개인평
